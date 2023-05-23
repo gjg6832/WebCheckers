@@ -1,0 +1,38 @@
+commit eacc713990ad52d24a8d56688859b09d5a470295
+Author: Haydenliangjl6499 <jl6499@rit.edu>
+Date:   Mon Sep 21 20:19:30 2020 -0400
+
+    name change
+    
+    name change
+
+commit c6439c18da8445dad463d7d92e21ce7555af2284
+Author: GregG <gjg6832@rit.edu>
+Date:   Fri Sep 18 18:28:33 2020 -0400
+
+    Initial commit for Name change
+
+commit 4f9f274a4fb655deefe43785388c6abf26e2189e
+Merge: 44e6b86 a383c52
+Author: Shrif Rai <sr1908@g.rit.edu>
+Date:   Fri Sep 18 18:23:47 2020 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 44e6b86d1444ad87cf6cacae776ca73e85790650
+Author: Shrif Rai <sr1908@g.rit.edu>
+Date:   Fri Sep 18 18:23:16 2020 -0400
+
+    Initial commit of name.
+
+commit a383c5223aee1b4775d7bfeab09b7c2436bb484a
+Author: eay4074 <eay4074@rit.edu>
+Date:   Fri Sep 18 18:22:58 2020 -0400
+
+    Added my name to the README
+
+commit 51e2e9460b006f297541fdaff0417e2e0d56b7d3
+Author: KennBMartinez <kbmvse@rit.edu>
+Date:   Mon Sep 14 16:48:31 2020 -0400
+
+    Initial commit
